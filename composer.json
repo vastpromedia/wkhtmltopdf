@@ -1,0 +1,16 @@
+{
+    "name": "vastpromedia/wkhtmltopdf",
+    "description": "Simple shell utility to convert HTML to PDF using the WebKit rendering engine and QT.",
+    "version": "0.11.0-RC1",
+    "type": "library",
+    "keywords": [
+        "wkhtmltopdf",
+        "wkhtmltoimage"
+    ],
+    "homepage": "http://github.com/vastpromedia/wkhtmltopdf",
+    "license": "LGPL-3.0+",
+    "bin": [
+        "wkhtmltoimage",
+        "wkhtmltopdf"
+    ]
+}
